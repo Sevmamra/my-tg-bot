@@ -1,4 +1,5 @@
-from caption_parser import parser as caption_parser
+from core.caption_parser import parser as caption_parser
+
 import re
 import datetime
 
